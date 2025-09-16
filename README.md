@@ -11,3 +11,5 @@ I found this article (and the accompanying book summary) fascinating because it 
 
 I also appreciated how the piece highlights the importance of automated tests. They serve as a safety net, ensuring that as we clean up and reorganize the code, functionality remains intact. This mindset feels empowering — it shows that software engineering is not about writing flawless code the first time, but about building systems that can adapt and grow.
 
+Leo Fu comment--
+I think the insight is pretty important. Iteration during the development is so crucial and decision should be made during this process.
